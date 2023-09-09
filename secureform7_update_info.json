@@ -5,7 +5,8 @@
   "homepage": "https://prowebmentor.net/",
   "requires": "5.0",
   "tested": "6.3",
-  "version": "1.0.1",
+  "version": "1.0.0",
+  "new_version": "1.0.1",
   "last_updated": "2023-08-07",
   "download_link": "https://prowebmentor.net/wp-content/uploads/2023/09/secureform7.zip",
   "banners": {
