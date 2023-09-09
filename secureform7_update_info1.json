@@ -16,6 +16,7 @@
   "autoupdate": true,
   "sections": {
     "description": "A powerful WordPress plugin...",
+    "installation": "This is the installation instructions for your plugin. You can provide step-by-step instructions here.",
     "changelog": "Version 3.0 (2023-09-07): - Added new features..."
   }
 }
