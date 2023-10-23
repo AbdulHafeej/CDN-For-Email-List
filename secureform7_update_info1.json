@@ -1,22 +1,7 @@
 {
-  "name" : "SecureForm 7: Spam Blocker Add-on For Contact Form 7",
-  "slug" : "secureform7",
-  "author": "<a href='https://prowebmentor.net'>Prowebmentor</a>",
-  "homepage": "https://prowebmentor.net/",
   "requires": "5.0",
-  "tested": "6.3",
-  "version": "1.0.0",
-  "new_version": "1.0.1",
-  "last_updated": "2023-08-07",
-  "download_link": "https://prowebmentor.net/wp-content/uploads/2023/09/secureform7.zip",
-  "banners": {
-     "low" : "https://wpfreighter.com/images/wp-freighter-banner-772x250.webp",
-     "high" : "https://wpfreighter.com/images/wp-freighter-banner-1544x500.webp"
-  },
-  "autoupdate": true,
-  "sections": {
-    "description": "A powerful WordPress plugin...",
-    "installation": "This is the installation instructions for your plugin. You can provide step-by-step instructions here.",
-    "changelog": "Version 3.0 (2023-09-07): - Added new features..."
-  }
+  "tested": "5.8",
+  "new_version": "3.5.0",
+  "last_updated": "2023-10-01",
+  "download_link": "https://prowebmentor.net/wp-content/uploads/2023/10/secureform7.zip"
 }
